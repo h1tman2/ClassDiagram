@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+lib/miglayout-swing-javadoc.jar
+lib/miglayout-swing-sources.jar
+lib/miglayout-swing.jar
